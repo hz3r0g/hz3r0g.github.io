@@ -291,7 +291,7 @@ body {
     justify-content: space-between;
     flex-direction: row;
     align-self: center;
-    margin: 20px 0px;
+    margin: 40px 0px;
 }
 .align-row {
     display: flex;
@@ -321,7 +321,6 @@ body {
     font-weight: 900;
     color: white;
     text-shadow: 0px 0px 20px #ea2329;
-    margin-top: 20px;
     margin-bottom: 20px;
     font-family: "Audiowide", sans-serif;
 }
@@ -355,5 +354,4 @@ body {
     font-size: 30px;
     border-radius: 10px;
     box-shadow: 0px 0px 20px #ea2329;
-    border: black 2px solid;
 }
